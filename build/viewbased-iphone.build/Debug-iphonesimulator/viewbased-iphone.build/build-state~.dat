@@ -1,0 +1,260 @@
+Tviewbased-iphone
+v7
+r0
+t370759595.217766
+cCheck dependencies
+cProcessInfoPlistFile /Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app/Info.plist viewbased_iphone-Info.plist
+cCompileXIB /Users/otakeda/Documents/viewbased-iphone/MainWindow.xib
+cCompileXIB /Users/otakeda/Documents/viewbased-iphone/viewbased_iphoneViewController.xib
+cProcessPCH /var/folders/7X/7XOqHfPwGTaVs6Aq8-qmyk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/viewbased_iphone_Prefix-ezjpreanbqmfjzdmuckhdcgexvqn/viewbased_iphone_Prefix.pch.gch viewbased_iphone_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/Objects-normal/i386/main.o /Users/otakeda/Documents/viewbased-iphone/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/Objects-normal/i386/viewbased_iphoneAppDelegate.o /Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/Objects-normal/i386/viewbased_iphoneViewController.o /Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app/viewbased-iphone normal i386
+cGenerateDSYMFile /Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app.dSYM /Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app/viewbased-iphone
+cTouch /Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004BC6BB8F0000000000000110
+t1271315343
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BB70A760000000000279720
+t1270286966
+s2594592
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BB70A830000000000277510
+t1270286979
+s2585872
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BB70A5F0000000000001466
+t1270286943
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BB9113C00000000000009CD
+t1270419772
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BB9124900000000022C20B0
+t1270420041
+s36446384
+
+N/Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneAppDelegate.h
+c00000000506920200000000000000211
+t1349066784
+s529
+i<UIKit/UIKit.h>
+
+N/Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneAppDelegate.m
+c0000000050692020000000000000027D
+t1349066784
+s637
+i"viewbased_iphoneAppDelegate.h"
+i"viewbased_iphoneViewController.h"
+
+N/Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneViewController.h
+c00000000506920200000000000000105
+t1349066784
+s261
+i<UIKit/UIKit.h>
+
+N/Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneViewController.m
+c000000005069202000000000000005D9
+t1349066784
+s1497
+i"viewbased_iphoneViewController.h"
+
+N/Users/otakeda/Documents/viewbased-iphone/MainWindow.xib
+c00000000506920200000000000004D78
+t1349066784
+s19832
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app
+t1349066795
+s238
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app.dSYM
+t1349066795
+s102
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app/Info.plist
+t1349066793
+s633
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app/MainWindow.nib
+t1349066793
+s1203
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app/PkgInfo
+t1349066793
+s8
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app/viewbased-iphone
+t1349066795
+s19664
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app/viewbased_iphoneViewController.nib
+t1349066793
+s795
+
+N/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/Objects-normal/i386/main.o
+t1349066794
+s5948
+
+N/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/Objects-normal/i386/viewbased-iphone.LinkFileList
+c000000005069202900000000000001DE
+t1349066793
+s478
+
+N/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/Objects-normal/i386/viewbased_iphoneAppDelegate.o
+t1349066794
+s43812
+
+N/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/Objects-normal/i386/viewbased_iphoneViewController.o
+t1349066794
+s34496
+
+N/Users/otakeda/Documents/viewbased-iphone/main.m
+c0000000050692020000000000000016E
+t1349066784
+s366
+i<UIKit/UIKit.h>
+
+N/Users/otakeda/Documents/viewbased-iphone/viewbased_iphoneViewController.xib
+c00000000506920200000000000001A69
+t1349066784
+s6761
+
+N/Users/otakeda/Documents/viewbased-iphone/viewbased_iphone_Prefix.pch
+c000000005069202000000000000000C9
+t1349066784
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/7X/7XOqHfPwGTaVs6Aq8-qmyk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/viewbased_iphone_Prefix-ezjpreanbqmfjzdmuckhdcgexvqn/viewbased_iphone_Prefix.pch.gch
+t1349066794
+s15154192
+
+Nviewbased_iphone-Info.plist
+c0000000050692020000000000000038D
+t1349066784
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies370759593#370759593#0(0"0(0#1#0"3524964816145887232#0"0#
+
+CCompileC build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/Objects-normal/i386/main.o /Users/otakeda/Documents/viewbased-iphone/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s370759594.763355
+e370759594.861662
+r1
+xCompileC
+xbuild/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/Objects-normal/i386/main.o
+x/Users/otakeda/Documents/viewbased-iphone/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/otakeda/Documents/viewbased-iphone/main.m370759594#370759594#0(0"0(0#0#48"/Users/otakeda/Documents/viewbased-iphone/main.m4300739032#2070"    cd /Users/otakeda/Documents/viewbased-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/viewbased-iphone-generated-files.hmap -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/viewbased-iphone-own-target-headers.hmap -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/viewbased-iphone-all-target-headers.hmap -iquote /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/viewbased-iphone-project-headers.hmap -F/Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator -I/Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/include -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/DerivedSources/i386 -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/DerivedSources -include /var/folders/7X/7XOqHfPwGTaVs6Aq8-qmyk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/viewbased_iphone_Prefix-ezjpreanbqmfjzdmuckhdcgexvqn/viewbased_iphone_Prefix.pch -c /Users/otakeda/Documents/viewbased-iphone/main.m -o /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/Objects-normal/i386/main.o0#
+
+CCompileC build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/Objects-normal/i386/viewbased_iphoneAppDelegate.o /Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s370759594.764723
+e370759594.882310
+r1
+xCompileC
+xbuild/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/Objects-normal/i386/viewbased_iphoneAppDelegate.o
+x/Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneAppDelegate.m370759594#370759594#0(0"0(0#0#79"/Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneAppDelegate.m4300739032#2124"    cd /Users/otakeda/Documents/viewbased-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/viewbased-iphone-generated-files.hmap -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/viewbased-iphone-own-target-headers.hmap -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/viewbased-iphone-all-target-headers.hmap -iquote /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/viewbased-iphone-project-headers.hmap -F/Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator -I/Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/include -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/DerivedSources/i386 -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/DerivedSources -include /var/folders/7X/7XOqHfPwGTaVs6Aq8-qmyk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/viewbased_iphone_Prefix-ezjpreanbqmfjzdmuckhdcgexvqn/viewbased_iphone_Prefix.pch -c /Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneAppDelegate.m -o /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/Objects-normal/i386/viewbased_iphoneAppDelegate.o0#
+
+CCompileC build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/Objects-normal/i386/viewbased_iphoneViewController.o /Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s370759594.861751
+e370759594.914735
+r1
+xCompileC
+xbuild/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/Objects-normal/i386/viewbased_iphoneViewController.o
+x/Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneViewController.m370759594#370759594#0(0"0(0#0#82"/Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneViewController.m4300739032#2130"    cd /Users/otakeda/Documents/viewbased-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/viewbased-iphone-generated-files.hmap -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/viewbased-iphone-own-target-headers.hmap -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/viewbased-iphone-all-target-headers.hmap -iquote /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/viewbased-iphone-project-headers.hmap -F/Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator -I/Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/include -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/DerivedSources/i386 -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/DerivedSources -include /var/folders/7X/7XOqHfPwGTaVs6Aq8-qmyk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/viewbased_iphone_Prefix-ezjpreanbqmfjzdmuckhdcgexvqn/viewbased_iphone_Prefix.pch -c /Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneViewController.m -o /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/Objects-normal/i386/viewbased_iphoneViewController.o0#
+
+CCompileXIB /Users/otakeda/Documents/viewbased-iphone/MainWindow.xib
+s370759593.528142
+e370759593.994835
+r1
+xCompileXIB
+x/Users/otakeda/Documents/viewbased-iphone/MainWindow.xib
+o2012-10-01 13:46:33.817 Interface Builder Cocoa Touch Tool[6897:903] CFPreferences: user home directory at file://localhost/Users/otakeda/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib370759593#370759593#0(324"2012-10-01 13:46:33.817 Interface Builder Cocoa Touch Tool[6897:903] CFPreferences: user home directory at file://localhost/Users/otakeda/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#56"/Users/otakeda/Documents/viewbased-iphone/MainWindow.xib4300739032#498"    cd /Users/otakeda/Documents/viewbased-iphone    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app/MainWindow.nib /Users/otakeda/Documents/viewbased-iphone/MainWindow.xib0#
+
+CCompileXIB /Users/otakeda/Documents/viewbased-iphone/viewbased_iphoneViewController.xib
+s370759593.548260
+e370759593.994991
+r1
+xCompileXIB
+x/Users/otakeda/Documents/viewbased-iphone/viewbased_iphoneViewController.xib
+o2012-10-01 13:46:33.810 Interface Builder Cocoa Touch Tool[6896:903] CFPreferences: user home directory at file://localhost/Users/otakeda/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@45"CompileXIB viewbased_iphoneViewController.xib370759593#370759593#0(324"2012-10-01 13:46:33.810 Interface Builder Cocoa Touch Tool[6896:903] CFPreferences: user home directory at file://localhost/Users/otakeda/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#76"/Users/otakeda/Documents/viewbased-iphone/viewbased_iphoneViewController.xib4300739032#538"    cd /Users/otakeda/Documents/viewbased-iphone    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app/viewbased_iphoneViewController.nib /Users/otakeda/Documents/viewbased-iphone/viewbased_iphoneViewController.xib0#
+
+CGenerateDSYMFile /Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app.dSYM /Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app/viewbased-iphone
+s370759595.161137
+e370759595.204378
+r1
+xGenerateDSYMFile
+x/Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app.dSYM
+x/Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app/viewbased-iphone
+lSLF07#2@136"GenerateDSYMFile build/Debug-iphonesimulator/viewbased-iphone.app.dSYM build/Debug-iphonesimulator/viewbased-iphone.app/viewbased-iphone370759595#370759595#0(0"0(0#0#107"/Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app/viewbased-iphone4300739032#419"    cd /Users/otakeda/Documents/viewbased-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app/viewbased-iphone -o /Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app.dSYM0#
+
+CLd /Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app/viewbased-iphone normal i386
+s370759594.914813
+e370759595.160922
+r1
+xLd
+x/Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app/viewbased-iphone
+xnormal
+xi386
+lSLF07#2@112"Link /Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app/viewbased-iphone370759594#370759595#0(0"0(0#0#0"4300739032#922"    cd /Users/otakeda/Documents/viewbased-iphone    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator -F/Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator -filelist /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/Objects-normal/i386/viewbased-iphone.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app/viewbased-iphone0#
+
+CProcessInfoPlistFile /Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app/Info.plist viewbased_iphone-Info.plist
+s370759593.508319
+e370759593.528058
+r1
+xProcessInfoPlistFile
+x/Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app/Info.plist
+xviewbased_iphone-Info.plist
+lSLF07#2@35"Process viewbased_iphone-Info.plist370759593#370759593#0(0"0(0#0#69"/Users/otakeda/Documents/viewbased-iphone/viewbased_iphone-Info.plist29273878621126700#515"    cd /Users/otakeda/Documents/viewbased-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility viewbased_iphone-Info.plist -genpkginfo /Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app/Info.plist0#
+
+CProcessPCH /var/folders/7X/7XOqHfPwGTaVs6Aq8-qmyk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/viewbased_iphone_Prefix-ezjpreanbqmfjzdmuckhdcgexvqn/viewbased_iphone_Prefix.pch.gch viewbased_iphone_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s370759593.995180
+e370759594.763224
+r1
+xProcessPCH
+x/var/folders/7X/7XOqHfPwGTaVs6Aq8-qmyk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/viewbased_iphone_Prefix-ezjpreanbqmfjzdmuckhdcgexvqn/viewbased_iphone_Prefix.pch.gch
+xviewbased_iphone_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile viewbased_iphone_Prefix.pch370759593#370759594#0(0"0(0#0#69"/Users/otakeda/Documents/viewbased-iphone/viewbased_iphone_Prefix.pch4300739032#1950"    cd /Users/otakeda/Documents/viewbased-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/viewbased-iphone-generated-files.hmap -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/viewbased-iphone-own-target-headers.hmap -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/viewbased-iphone-all-target-headers.hmap -iquote /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/viewbased-iphone-project-headers.hmap -F/Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator -I/Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/include -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/DerivedSources/i386 -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Debug-iphonesimulator/viewbased-iphone.build/DerivedSources -c /Users/otakeda/Documents/viewbased-iphone/viewbased_iphone_Prefix.pch -o /var/folders/7X/7XOqHfPwGTaVs6Aq8-qmyk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/viewbased_iphone_Prefix-ezjpreanbqmfjzdmuckhdcgexvqn/viewbased_iphone_Prefix.pch.gch0#
+
+CTouch /Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app
+s370759595.204452
+e370759595.217709
+r1
+xTouch
+x/Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app
+lSLF07#2@96"Touch /Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app370759595#370759595#0(0"0(0#0#0"4300739032#293"    cd /Users/otakeda/Documents/viewbased-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/otakeda/Documents/viewbased-iphone/build/Debug-iphonesimulator/viewbased-iphone.app0#
+

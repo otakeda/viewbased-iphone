@@ -1,0 +1,297 @@
+Totakeda
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004BBBFA370000000000000110
+t1270610487
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004BAA718800000000000001E5
+t1269461384
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BB717360000000000546790
+t1270290230
+s5531536
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BB719560000000000623920
+t1270290774
+s6437152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BB7191F0000000000001466
+t1270290719
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BB9128A00000000000009CD
+t1270420106
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BB9138E0000000002992270
+t1270420366
+s43590256
+
+N/Users/otakeda/Documents/viewbased-iphone/../../Google ドライブ/image/clock0.jpg
+c000000004F768E7400000000000B9ECB
+t1333169780
+s761547
+
+N/Users/otakeda/Documents/viewbased-iphone/../../Google ドライブ/image/cycle.jpg
+c000000004F7839520000000000015D29
+t1333279058
+s89385
+
+N/Users/otakeda/Documents/viewbased-iphone/../../Google ドライブ/image/flows.jpg
+c000000004F768AE60000000000056E20
+t1333168870
+s355872
+
+N/Users/otakeda/Documents/viewbased-iphone/../../Google ドライブ/image/glass_water.jpg
+c000000004F768E2700000000000275FA
+t1333169703
+s161274
+
+N/Users/otakeda/Documents/viewbased-iphone/../../Google ドライブ/image/sandclock.jpg
+c000000004F7839260000000000003EAF
+t1333279014
+s16047
+
+N/Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneAppDelegate.h
+c00000000506920200000000000000211
+t1349066784
+s529
+i<UIKit/UIKit.h>
+
+N/Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneAppDelegate.m
+c0000000050692020000000000000027D
+t1349066784
+s637
+i"viewbased_iphoneAppDelegate.h"
+i"viewbased_iphoneViewController.h"
+
+N/Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneViewController.h
+c00000000506935980000000000000193
+t1349072280
+s403
+i<UIKit/UIKit.h>
+
+N/Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneViewController.m
+c00000000506938200000000000000721
+t1349072928
+s1825
+i"viewbased_iphoneViewController.h"
+
+N/Users/otakeda/Documents/viewbased-iphone/MainWindow.xib
+c00000000506920200000000000004D78
+t1349066784
+s19832
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/otakeda.app
+t2
+s0
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/otakeda.app.dSYM
+t2
+s0
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/otakeda.app/Info.plist
+t2
+s0
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/otakeda.app/MainWindow.nib
+t2
+s0
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/otakeda.app/PkgInfo
+t2
+s0
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/otakeda.app/ResourceRules.plist
+t2
+s0
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/otakeda.app/clock0.jpg
+t2
+s0
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/otakeda.app/cycle.jpg
+t2
+s0
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/otakeda.app/flows.jpg
+t2
+s0
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/otakeda.app/glass_water.jpg
+t2
+s0
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/otakeda.app/otakeda
+t2
+s0
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/otakeda.app/sandclock.jpg
+t2
+s0
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/otakeda.app/viewbased_iphoneViewController.nib
+t2
+s0
+
+N/Users/otakeda/Documents/viewbased-iphone/build/otakeda.build/Release-iphoneos/otakeda.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/otakeda/Documents/viewbased-iphone/build/otakeda.build/Release-iphoneos/otakeda.build/Objects-normal/armv6/otakeda
+t2
+s0
+
+N/Users/otakeda/Documents/viewbased-iphone/build/otakeda.build/Release-iphoneos/otakeda.build/Objects-normal/armv6/otakeda.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/otakeda/Documents/viewbased-iphone/build/otakeda.build/Release-iphoneos/otakeda.build/Objects-normal/armv6/viewbased_iphoneAppDelegate.o
+t2
+s0
+
+N/Users/otakeda/Documents/viewbased-iphone/build/otakeda.build/Release-iphoneos/otakeda.build/Objects-normal/armv6/viewbased_iphoneViewController.o
+t2
+s0
+
+N/Users/otakeda/Documents/viewbased-iphone/build/otakeda.build/Release-iphoneos/otakeda.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/otakeda/Documents/viewbased-iphone/build/otakeda.build/Release-iphoneos/otakeda.build/Objects-normal/armv7/otakeda
+t2
+s0
+
+N/Users/otakeda/Documents/viewbased-iphone/build/otakeda.build/Release-iphoneos/otakeda.build/Objects-normal/armv7/otakeda.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/otakeda/Documents/viewbased-iphone/build/otakeda.build/Release-iphoneos/otakeda.build/Objects-normal/armv7/viewbased_iphoneAppDelegate.o
+t2
+s0
+
+N/Users/otakeda/Documents/viewbased-iphone/build/otakeda.build/Release-iphoneos/otakeda.build/Objects-normal/armv7/viewbased_iphoneViewController.o
+t2
+s0
+
+N/Users/otakeda/Documents/viewbased-iphone/build/otakeda.build/Release-iphoneos/otakeda.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/otakeda/Documents/viewbased-iphone/main.m
+c0000000050692020000000000000016E
+t1349066784
+s366
+i<UIKit/UIKit.h>
+
+N/Users/otakeda/Documents/viewbased-iphone/viewbased_iphoneViewController.xib
+c00000000506936EF00000000000062BA
+t1349072623
+s25274
+
+N/Users/otakeda/Documents/viewbased-iphone/viewbased_iphone_Prefix.pch
+c000000005069202000000000000000C9
+t1349066784
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/7X/7XOqHfPwGTaVs6Aq8-qmyk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/viewbased_iphone_Prefix-ceagxlhaonecphcxlqeqobuqzrun/viewbased_iphone_Prefix.pch.gch
+t1349074662
+s9606704
+
+N/var/folders/7X/7XOqHfPwGTaVs6Aq8-qmyk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/viewbased_iphone_Prefix-gzzahkqgncmywqbgqkniisvzzqzx/viewbased_iphone_Prefix.pch.gch
+t1349074662
+s10057264
+
+Nviewbased_iphone-Info.plist
+c00000000506936F500000000000003C5
+t1349072629
+s965
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies370768656#370768656#0(136"[BEROR]Code Sign error: a valid provisioning profile matching the application's Identifier 'com.yourcompany.otakeda' could not be found1(4@128"Code Sign error: a valid provisioning profile matching the application's Identifier 'com.yourcompany.otakeda' could not be found370768656#18446744073709551615#0#0(1@0"0(0#1#0"4300739032#0"0#
+
+CCompileC build/otakeda.build/Release-iphoneos/otakeda.build/Objects-normal/armv6/main.o /Users/otakeda/Documents/viewbased-iphone/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/otakeda.build/Release-iphoneos/otakeda.build/Objects-normal/armv6/viewbased_iphoneAppDelegate.o /Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/otakeda.build/Release-iphoneos/otakeda.build/Objects-normal/armv6/viewbased_iphoneViewController.o /Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/otakeda.build/Release-iphoneos/otakeda.build/Objects-normal/armv7/main.o /Users/otakeda/Documents/viewbased-iphone/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/otakeda.build/Release-iphoneos/otakeda.build/Objects-normal/armv7/viewbased_iphoneAppDelegate.o /Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/otakeda.build/Release-iphoneos/otakeda.build/Objects-normal/armv7/viewbased_iphoneViewController.o /Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/otakeda/Documents/viewbased-iphone/MainWindow.xib
+r0
+
+CCompileXIB /Users/otakeda/Documents/viewbased-iphone/viewbased_iphoneViewController.xib
+r0
+
+CCpResource build/Release-iphoneos/otakeda.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Release-iphoneos/otakeda.app/clock0.jpg "../../Google ドライブ/image/clock0.jpg"
+r0
+
+CCpResource build/Release-iphoneos/otakeda.app/cycle.jpg "../../Google ドライブ/image/cycle.jpg"
+r0
+
+CCpResource build/Release-iphoneos/otakeda.app/flows.jpg "../../Google ドライブ/image/flows.jpg"
+r0
+
+CCpResource build/Release-iphoneos/otakeda.app/glass_water.jpg "../../Google ドライブ/image/glass_water.jpg"
+r0
+
+CCpResource build/Release-iphoneos/otakeda.app/sandclock.jpg "../../Google ドライブ/image/sandclock.jpg"
+r0
+
+CCreateUniversalBinary /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/otakeda.app/otakeda normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/otakeda.app.dSYM /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/otakeda.app/otakeda
+r0
+
+CLd /Users/otakeda/Documents/viewbased-iphone/build/otakeda.build/Release-iphoneos/otakeda.build/Objects-normal/armv6/otakeda normal armv6
+r0
+
+CLd /Users/otakeda/Documents/viewbased-iphone/build/otakeda.build/Release-iphoneos/otakeda.build/Objects-normal/armv7/otakeda normal armv7
+r0
+
+CProcessInfoPlistFile /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/otakeda.app/Info.plist viewbased_iphone-Info.plist
+r0
+
+CProcessPCH /var/folders/7X/7XOqHfPwGTaVs6Aq8-qmyk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/viewbased_iphone_Prefix-ceagxlhaonecphcxlqeqobuqzrun/viewbased_iphone_Prefix.pch.gch viewbased_iphone_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/7X/7XOqHfPwGTaVs6Aq8-qmyk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/viewbased_iphone_Prefix-gzzahkqgncmywqbgqkniisvzzqzx/viewbased_iphone_Prefix.pch.gch viewbased_iphone_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/otakeda.app
+r0
+
+CValidate /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/otakeda.app
+r0
+

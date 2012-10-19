@@ -1,0 +1,258 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* viewbased_iphoneAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 430}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 637}";
+			sepNavWindowFrame = "{{84, 432}, {750, 558}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* otakeda */ = {
+		activeExec = 0;
+		executables = (
+			2F7633BA161957A000CFDEB2 /* otakeda */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* viewbased_iphoneViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 430}}";
+			sepNavSelRange = "{362, 33}";
+			sepNavVisRange = "{0, 403}";
+			sepNavWindowFrame = "{{38, 475}, {750, 558}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* viewbased_iphoneViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {866, 2891}}";
+			sepNavSelRange = "{1148, 0}";
+			sepNavVisRange = "{1681, 1600}";
+			sepNavWindowFrame = "{{107, 264}, {1042, 705}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2F7633BA161957A000CFDEB2 /* otakeda */;
+		activeSDKPreference = iphoneos4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* otakeda */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* otakeda */,
+		);
+		codeSenseManager = 2F7633D3161957AB00CFDEB2 /* Code sense */;
+		executables = (
+			2F7633BA161957A000CFDEB2 /* otakeda */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					423,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					675,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					496,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 371534508;
+			PBXWorkspaceStateSaveDate = 371534508;
+		};
+		perUserProjectItems = {
+			2F1CE1D216252BB100B27DAF /* PBXBookmark */ = 2F1CE1D216252BB100B27DAF /* PBXBookmark */;
+			2F1CE1D316252BB100B27DAF /* PBXTextBookmark */ = 2F1CE1D316252BB100B27DAF /* PBXTextBookmark */;
+			2F1CE1D416252BB100B27DAF /* PBXBookmark */ = 2F1CE1D416252BB100B27DAF /* PBXBookmark */;
+			2F1CE1D516252BB100B27DAF /* PBXBookmark */ = 2F1CE1D516252BB100B27DAF /* PBXBookmark */;
+			2F1CE1D616252BB100B27DAF /* PBXBookmark */ = 2F1CE1D616252BB100B27DAF /* PBXBookmark */;
+			2F1CE1D716252BB100B27DAF /* PlistBookmark */ = 2F1CE1D716252BB100B27DAF /* PlistBookmark */;
+			2F1CE1D816252BB100B27DAF /* PBXBookmark */ = 2F1CE1D816252BB100B27DAF /* PBXBookmark */;
+			2F1CE1D916252BB100B27DAF /* PBXTextBookmark */ = 2F1CE1D916252BB100B27DAF /* PBXTextBookmark */;
+			2F7634AF161970B600CFDEB2 /* PBXTextBookmark */ = 2F7634AF161970B600CFDEB2 /* PBXTextBookmark */;
+			2F8EEB2116197DAB00D47319 /* PBXTextBookmark */ = 2F8EEB2116197DAB00D47319 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2F7633D2161957AB00CFDEB2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 430}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 366}";
+			sepNavWindowFrame = "{{61, 453}, {750, 558}}";
+		};
+	};
+	2F1CE1D216252BB100B27DAF /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2F7633E616195C2A00CFDEB2 /* clock0.jpg */;
+	};
+	2F1CE1D316252BB100B27DAF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* viewbased_iphone_Prefix.pch */;
+		name = "viewbased_iphone_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 201;
+		vrLoc = 0;
+	};
+	2F1CE1D416252BB100B27DAF /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2F7633F416195D5C00CFDEB2 /* sandclock.jpg */;
+	};
+	2F1CE1D516252BB100B27DAF /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2F7633EA16195C3B00CFDEB2 /* glass_water.jpg */;
+	};
+	2F1CE1D616252BB100B27DAF /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2F7633E816195C3500CFDEB2 /* cycle.jpg */;
+	};
+	2F1CE1D716252BB100B27DAF /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* viewbased_iphone-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleSignature,
+		);
+		name = "/Users/otakeda/Documents/viewbased-iphone/viewbased_iphone-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	2F1CE1D816252BB100B27DAF /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2F7633F216195D4B00CFDEB2 /* flows.jpg */;
+	};
+	2F1CE1D916252BB100B27DAF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* viewbased_iphoneViewController.m */;
+		name = "viewbased_iphoneViewController.m: 46";
+		rLen = 0;
+		rLoc = 1148;
+		rType = 0;
+		vrLen = 1600;
+		vrLoc = 1681;
+	};
+	2F7633BA161957A000CFDEB2 /* otakeda */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = otakeda;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2F7633D2161957AB00CFDEB2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2F7633D3161957AB00CFDEB2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2F7633EA16195C3B00CFDEB2 /* glass_water.jpg */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 495}, {750, 558}}";
+		};
+	};
+	2F7634AF161970B600CFDEB2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* viewbased_iphoneAppDelegate.m */;
+		name = "viewbased_iphoneAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 637;
+		vrLoc = 0;
+	};
+	2F8EEB2116197DAB00D47319 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* viewbased_iphoneViewController.m */;
+		name = "viewbased_iphoneViewController.m: 47";
+		rLen = 0;
+		rLoc = 1148;
+		rType = 0;
+		vrLen = 927;
+		vrLoc = 799;
+	};
+	32CA4F630368D1EE00C91783 /* viewbased_iphone_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {740, 485}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 201}";
+		};
+	};
+	8D1107310486CEB800E47090 /* viewbased_iphone-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 348}, {1042, 705}}";
+		};
+	};
+}

@@ -1,0 +1,517 @@
+Tviewbased-iphone
+v7
+r0
+t370767688.866701
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004BBBFA370000000000000110
+t1270610487
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+c000000004BAA718800000000000001A9
+t1269461384
+s425
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004BAA718800000000000001E5
+t1269461384
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BB717360000000000546790
+t1270290230
+s5531536
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BB719560000000000623920
+t1270290774
+s6437152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BB7191F0000000000001466
+t1270290719
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BB9128A00000000000009CD
+t1270420106
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BB9138E0000000002992270
+t1270420366
+s43590256
+
+N/Users/otakeda/Documents/viewbased-iphone/../../Google ドライブ/image/clock0.jpg
+c000000004F768E7400000000000B9ECB
+t1333169780
+s761547
+
+N/Users/otakeda/Documents/viewbased-iphone/../../Google ドライブ/image/cycle.jpg
+c000000004F7839520000000000015D29
+t1333279058
+s89385
+
+N/Users/otakeda/Documents/viewbased-iphone/../../Google ドライブ/image/flows.jpg
+c000000004F768AE60000000000056E20
+t1333168870
+s355872
+
+N/Users/otakeda/Documents/viewbased-iphone/../../Google ドライブ/image/glass_water.jpg
+c000000004F768E2700000000000275FA
+t1333169703
+s161274
+
+N/Users/otakeda/Documents/viewbased-iphone/../../Google ドライブ/image/sandclock.jpg
+c000000004F7839260000000000003EAF
+t1333279014
+s16047
+
+N/Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneAppDelegate.h
+c00000000506920200000000000000211
+t1349066784
+s529
+i<UIKit/UIKit.h>
+
+N/Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneAppDelegate.m
+c0000000050692020000000000000027D
+t1349066784
+s637
+i"viewbased_iphoneAppDelegate.h"
+i"viewbased_iphoneViewController.h"
+
+N/Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneViewController.h
+c00000000506935980000000000000193
+t1349072280
+s403
+i<UIKit/UIKit.h>
+
+N/Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneViewController.m
+c00000000506938200000000000000721
+t1349072928
+s1825
+i"viewbased_iphoneViewController.h"
+
+N/Users/otakeda/Documents/viewbased-iphone/MainWindow.xib
+c00000000506920200000000000004D78
+t1349066784
+s19832
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app
+t1349074888
+s544
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app.dSYM
+t1349074663
+s102
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/Info.plist
+t1349074661
+s717
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/MainWindow.nib
+t1349074662
+s1203
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/PkgInfo
+t1349074661
+s8
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/ResourceRules.plist
+t1349074661
+s485
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/clock0.jpg
+t1349074662
+s761547
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/cycle.jpg
+t1349074662
+s89385
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/embedded.mobileprovision
+t1349074663
+s7294
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/flows.jpg
+t1349074662
+s355872
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/glass_water.jpg
+t1349074662
+s161274
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/sandclock.jpg
+t1349074662
+s16047
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/viewbased-iphone
+t1349074663
+s51888
+
+N/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/viewbased_iphoneViewController.nib
+t1349074662
+s2572
+
+N/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv6/main.o
+t1349074663
+s6444
+
+N/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv6/viewbased-iphone
+t1349074663
+s17292
+
+N/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv6/viewbased-iphone.LinkFileList
+c0000000050693EE500000000000001D2
+t1349074661
+s466
+
+N/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv6/viewbased_iphoneAppDelegate.o
+t1349074663
+s44392
+
+N/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv6/viewbased_iphoneViewController.o
+t1349074663
+s36700
+
+N/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv7/main.o
+t1349074663
+s6424
+
+N/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv7/viewbased-iphone
+t1349074663
+s17292
+
+N/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv7/viewbased-iphone.LinkFileList
+c0000000050693EE500000000000001D2
+t1349074661
+s466
+
+N/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv7/viewbased_iphoneAppDelegate.o
+t1349074663
+s44400
+
+N/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv7/viewbased_iphoneViewController.o
+t1349074663
+s36712
+
+N/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone.xcent
+t1349074663
+s438
+
+N/Users/otakeda/Documents/viewbased-iphone/main.m
+c0000000050692020000000000000016E
+t1349066784
+s366
+i<UIKit/UIKit.h>
+
+N/Users/otakeda/Documents/viewbased-iphone/viewbased_iphoneViewController.xib
+c00000000506936EF00000000000062BA
+t1349072623
+s25274
+
+N/Users/otakeda/Documents/viewbased-iphone/viewbased_iphone_Prefix.pch
+c000000005069202000000000000000C9
+t1349066784
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/otakeda/Library/MobileDevice/Provisioning Profiles/B2C0ADF3-545A-4A54-81ED-E5FEED84E631.mobileprovision
+c0000000050693CEA0000000000001C7E
+t1349074154
+s7294
+
+N/var/folders/7X/7XOqHfPwGTaVs6Aq8-qmyk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/viewbased_iphone_Prefix-ceagxlhaonecphcxlqeqobuqzrun/viewbased_iphone_Prefix.pch.gch
+t1349074662
+s9606704
+
+N/var/folders/7X/7XOqHfPwGTaVs6Aq8-qmyk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/viewbased_iphone_Prefix-gzzahkqgncmywqbgqkniisvzzqzx/viewbased_iphone_Prefix.pch.gch
+t1349074662
+s10057264
+
+Nviewbased_iphone-Info.plist
+c00000000506936F500000000000003C5
+t1349072629
+s965
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies370768429#370768429#0(145"[BEROR]Code Sign error: a valid provisioning profile matching the application's Identifier 'com.yourcompany.viewbased-iphone' could not be found1(4@137"Code Sign error: a valid provisioning profile matching the application's Identifier 'com.yourcompany.viewbased-iphone' could not be found370768429#18446744073709551615#0#0(1@0"0(0#1#0"4300739032#0"0#
+
+CCodeSign /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app
+s370767688.507343
+e370767688.718001
+r1
+xCodeSign
+x/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app
+o/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app: replacing existing signature
+lSLF07#2@52"CodeSign build/Release-iphoneos/viewbased-iphone.app370767688#370767688#0(116"/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app: replacing existing signature0(0#0#85"/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app28429466575372388#730"    cd /Users/otakeda/Documents/viewbased-iphone    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Osamu Takeda (PR2582WHUP)" --resource-rules=/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/ResourceRules.plist --entitlements /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone.xcent /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app0#
+
+CCompileC build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv6/main.o /Users/otakeda/Documents/viewbased-iphone/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s370767462.971148
+e370767463.090819
+r1
+xCompileC
+xbuild/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv6/main.o
+x/Users/otakeda/Documents/viewbased-iphone/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/otakeda/Documents/viewbased-iphone/main.m370767462#370767463#0(0"0(0#0#48"/Users/otakeda/Documents/viewbased-iphone/main.m4300739032#1996"    cd /Users/otakeda/Documents/viewbased-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-generated-files.hmap -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-own-target-headers.hmap -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-all-target-headers.hmap -iquote /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-project-headers.hmap -F/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos -I/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/include -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/DerivedSources/armv6 -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/7X/7XOqHfPwGTaVs6Aq8-qmyk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/viewbased_iphone_Prefix-ceagxlhaonecphcxlqeqobuqzrun/viewbased_iphone_Prefix.pch -c /Users/otakeda/Documents/viewbased-iphone/main.m -o /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv6/viewbased_iphoneAppDelegate.o /Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s370767462.972003
+e370767463.139134
+r1
+xCompileC
+xbuild/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv6/viewbased_iphoneAppDelegate.o
+x/Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneAppDelegate.m370767462#370767463#0(0"0(0#0#79"/Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneAppDelegate.m4300739032#2050"    cd /Users/otakeda/Documents/viewbased-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-generated-files.hmap -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-own-target-headers.hmap -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-all-target-headers.hmap -iquote /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-project-headers.hmap -F/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos -I/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/include -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/DerivedSources/armv6 -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/7X/7XOqHfPwGTaVs6Aq8-qmyk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/viewbased_iphone_Prefix-ceagxlhaonecphcxlqeqobuqzrun/viewbased_iphone_Prefix.pch -c /Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneAppDelegate.m -o /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv6/viewbased_iphoneAppDelegate.o0#
+
+CCompileC build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv6/viewbased_iphoneViewController.o /Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s370767463.090904
+e370767463.181260
+r1
+xCompileC
+xbuild/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv6/viewbased_iphoneViewController.o
+x/Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneViewController.m370767463#370767463#0(0"0(0#0#82"/Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneViewController.m4300739032#2056"    cd /Users/otakeda/Documents/viewbased-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-generated-files.hmap -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-own-target-headers.hmap -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-all-target-headers.hmap -iquote /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-project-headers.hmap -F/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos -I/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/include -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/DerivedSources/armv6 -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/7X/7XOqHfPwGTaVs6Aq8-qmyk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/viewbased_iphone_Prefix-ceagxlhaonecphcxlqeqobuqzrun/viewbased_iphone_Prefix.pch -c /Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneViewController.m -o /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv6/viewbased_iphoneViewController.o0#
+
+CCompileC build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv7/main.o /Users/otakeda/Documents/viewbased-iphone/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s370767463.139231
+e370767463.193517
+r1
+xCompileC
+xbuild/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv7/main.o
+x/Users/otakeda/Documents/viewbased-iphone/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/otakeda/Documents/viewbased-iphone/main.m370767463#370767463#0(0"0(0#0#48"/Users/otakeda/Documents/viewbased-iphone/main.m4300739032#1996"    cd /Users/otakeda/Documents/viewbased-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-generated-files.hmap -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-own-target-headers.hmap -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-all-target-headers.hmap -iquote /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-project-headers.hmap -F/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos -I/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/include -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/DerivedSources/armv7 -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/7X/7XOqHfPwGTaVs6Aq8-qmyk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/viewbased_iphone_Prefix-gzzahkqgncmywqbgqkniisvzzqzx/viewbased_iphone_Prefix.pch -c /Users/otakeda/Documents/viewbased-iphone/main.m -o /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv7/main.o0#
+
+CCompileC build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv7/viewbased_iphoneAppDelegate.o /Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s370767463.193598
+e370767463.284568
+r1
+xCompileC
+xbuild/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv7/viewbased_iphoneAppDelegate.o
+x/Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneAppDelegate.m370767463#370767463#0(0"0(0#0#79"/Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneAppDelegate.m4300739032#2050"    cd /Users/otakeda/Documents/viewbased-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-generated-files.hmap -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-own-target-headers.hmap -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-all-target-headers.hmap -iquote /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-project-headers.hmap -F/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos -I/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/include -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/DerivedSources/armv7 -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/7X/7XOqHfPwGTaVs6Aq8-qmyk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/viewbased_iphone_Prefix-gzzahkqgncmywqbgqkniisvzzqzx/viewbased_iphone_Prefix.pch -c /Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneAppDelegate.m -o /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv7/viewbased_iphoneAppDelegate.o0#
+
+CCompileC build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv7/viewbased_iphoneViewController.o /Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s370767463.208698
+e370767463.287160
+r1
+xCompileC
+xbuild/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv7/viewbased_iphoneViewController.o
+x/Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneViewController.m370767463#370767463#0(0"0(0#0#82"/Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneViewController.m4300739032#2056"    cd /Users/otakeda/Documents/viewbased-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-generated-files.hmap -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-own-target-headers.hmap -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-all-target-headers.hmap -iquote /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-project-headers.hmap -F/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos -I/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/include -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/DerivedSources/armv7 -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/7X/7XOqHfPwGTaVs6Aq8-qmyk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/viewbased_iphone_Prefix-gzzahkqgncmywqbgqkniisvzzqzx/viewbased_iphone_Prefix.pch -c /Users/otakeda/Documents/viewbased-iphone/Classes/viewbased_iphoneViewController.m -o /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv7/viewbased_iphoneViewController.o0#
+
+CCompileXIB /Users/otakeda/Documents/viewbased-iphone/MainWindow.xib
+s370767461.665130
+e370767462.120963
+r1
+xCompileXIB
+x/Users/otakeda/Documents/viewbased-iphone/MainWindow.xib
+o2012-10-01 15:57:42.024 Interface Builder Cocoa Touch Tool[8007:903] CFPreferences: user home directory at file://localhost/Users/otakeda/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@25"CompileXIB MainWindow.xib370767461#370767462#0(240"2012-10-01 15:57:42.024 Interface Builder Cocoa Touch Tool[8007:903] CFPreferences: user home directory at file://localhost/Users/otakeda/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#56"/Users/otakeda/Documents/viewbased-iphone/MainWindow.xib4300739032#486"    cd /Users/otakeda/Documents/viewbased-iphone    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/MainWindow.nib /Users/otakeda/Documents/viewbased-iphone/MainWindow.xib0#
+
+CCompileXIB /Users/otakeda/Documents/viewbased-iphone/viewbased_iphoneViewController.xib
+s370767461.665695
+e370767462.263780
+r1
+xCompileXIB
+x/Users/otakeda/Documents/viewbased-iphone/viewbased_iphoneViewController.xib
+o2012-10-01 15:57:42.045 Interface Builder Cocoa Touch Tool[8008:903] CFPreferences: user home directory at file://localhost/Users/otakeda/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@45"CompileXIB viewbased_iphoneViewController.xib370767461#370767462#0(240"2012-10-01 15:57:42.045 Interface Builder Cocoa Touch Tool[8008:903] CFPreferences: user home directory at file://localhost/Users/otakeda/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#76"/Users/otakeda/Documents/viewbased-iphone/viewbased_iphoneViewController.xib4300739032#526"    cd /Users/otakeda/Documents/viewbased-iphone    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/viewbased_iphoneViewController.nib /Users/otakeda/Documents/viewbased-iphone/viewbased_iphoneViewController.xib0#
+
+CCpResource build/Release-iphoneos/viewbased-iphone.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+s370767461.657858
+e370767461.664540
+r1
+xCpResource
+xbuild/Release-iphoneos/viewbased-iphone.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist370767461#370767461#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist8027231347614429184#518"    cd /Users/otakeda/Documents/viewbased-iphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app0#
+
+CCpResource build/Release-iphoneos/viewbased-iphone.app/clock0.jpg "../../Google ドライブ/image/clock0.jpg"
+s370767462.121049
+e370767462.165949
+r1
+xCpResource
+xbuild/Release-iphoneos/viewbased-iphone.app/clock0.jpg
+x../../Google ドライブ/image/clock0.jpg
+lSLF07#2@53"Copy ../../Google ドライブ/image/clock0.jpg370767462#370767462#0(0"0(0#0#90"/Users/otakeda/Documents/viewbased-iphone/../../Google ドライブ/image/clock0.jpg4300739032#521"    cd /Users/otakeda/Documents/viewbased-iphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/otakeda/Documents/viewbased-iphone/../../Google ドライブ/image/clock0.jpg" /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app0#
+
+CCpResource build/Release-iphoneos/viewbased-iphone.app/cycle.jpg "../../Google ドライブ/image/cycle.jpg"
+s370767462.137211
+e370767462.166070
+r1
+xCpResource
+xbuild/Release-iphoneos/viewbased-iphone.app/cycle.jpg
+x../../Google ドライブ/image/cycle.jpg
+lSLF07#2@52"Copy ../../Google ドライブ/image/cycle.jpg370767462#370767462#0(0"0(0#0#89"/Users/otakeda/Documents/viewbased-iphone/../../Google ドライブ/image/cycle.jpg4300739032#520"    cd /Users/otakeda/Documents/viewbased-iphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/otakeda/Documents/viewbased-iphone/../../Google ドライブ/image/cycle.jpg" /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app0#
+
+CCpResource build/Release-iphoneos/viewbased-iphone.app/flows.jpg "../../Google ドライブ/image/flows.jpg"
+s370767462.140932
+e370767462.166275
+r1
+xCpResource
+xbuild/Release-iphoneos/viewbased-iphone.app/flows.jpg
+x../../Google ドライブ/image/flows.jpg
+lSLF07#2@52"Copy ../../Google ドライブ/image/flows.jpg370767462#370767462#0(0"0(0#0#89"/Users/otakeda/Documents/viewbased-iphone/../../Google ドライブ/image/flows.jpg4300739032#520"    cd /Users/otakeda/Documents/viewbased-iphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/otakeda/Documents/viewbased-iphone/../../Google ドライブ/image/flows.jpg" /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app0#
+
+CCpResource build/Release-iphoneos/viewbased-iphone.app/glass_water.jpg "../../Google ドライブ/image/glass_water.jpg"
+s370767462.138476
+e370767462.166173
+r1
+xCpResource
+xbuild/Release-iphoneos/viewbased-iphone.app/glass_water.jpg
+x../../Google ドライブ/image/glass_water.jpg
+lSLF07#2@58"Copy ../../Google ドライブ/image/glass_water.jpg370767462#370767462#0(0"0(0#0#95"/Users/otakeda/Documents/viewbased-iphone/../../Google ドライブ/image/glass_water.jpg4300739032#526"    cd /Users/otakeda/Documents/viewbased-iphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/otakeda/Documents/viewbased-iphone/../../Google ドライブ/image/glass_water.jpg" /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app0#
+
+CCpResource build/Release-iphoneos/viewbased-iphone.app/sandclock.jpg "../../Google ドライブ/image/sandclock.jpg"
+s370767462.141641
+e370767462.166379
+r1
+xCpResource
+xbuild/Release-iphoneos/viewbased-iphone.app/sandclock.jpg
+x../../Google ドライブ/image/sandclock.jpg
+lSLF07#2@56"Copy ../../Google ドライブ/image/sandclock.jpg370767462#370767462#0(0"0(0#0#93"/Users/otakeda/Documents/viewbased-iphone/../../Google ドライブ/image/sandclock.jpg4300739032#524"    cd /Users/otakeda/Documents/viewbased-iphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/otakeda/Documents/viewbased-iphone/../../Google ドライブ/image/sandclock.jpg" /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app0#
+
+CCreateUniversalBinary /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/viewbased-iphone normal "armv6 armv7"
+s370767463.325460
+e370767463.331644
+r1
+xCreateUniversalBinary
+x/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/viewbased-iphone
+xnormal
+xarmv6 armv7
+lSLF07#2@103"CreateUniversalBinary build/Release-iphoneos/viewbased-iphone.app/viewbased-iphone normal "armv6 armv7"370767463#370767463#0(0"0(0#0#53"/Users/otakeda/Documents/viewbased-iphone/armv6 armv74300739032#608"    cd /Users/otakeda/Documents/viewbased-iphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv6/viewbased-iphone /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv7/viewbased-iphone -output /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/viewbased-iphone0#
+
+CGenerateDSYMFile /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app.dSYM /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/viewbased-iphone
+s370767463.331724
+e370767463.403127
+r1
+xGenerateDSYMFile
+x/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app.dSYM
+x/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/viewbased-iphone
+lSLF07#2@126"GenerateDSYMFile build/Release-iphoneos/viewbased-iphone.app.dSYM build/Release-iphoneos/viewbased-iphone.app/viewbased-iphone370767463#370767463#0(0"0(0#0#102"/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/viewbased-iphone4300739032#402"    cd /Users/otakeda/Documents/viewbased-iphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/viewbased-iphone -o /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app.dSYM0#
+
+CLd /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv6/viewbased-iphone normal armv6
+s370767463.181377
+e370767463.208608
+r1
+xLd
+x/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv6/viewbased-iphone
+xnormal
+xarmv6
+lSLF07#2@153"Link /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv6/viewbased-iphone370767463#370767463#0(0"0(0#0#0"4300739032#936"    cd /Users/otakeda/Documents/viewbased-iphone    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -L/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos -F/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos -filelist /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv6/viewbased-iphone.LinkFileList -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv6/viewbased-iphone0#
+
+CLd /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv7/viewbased-iphone normal armv7
+s370767463.287231
+e370767463.325380
+r1
+xLd
+x/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv7/viewbased-iphone
+xnormal
+xarmv7
+lSLF07#2@153"Link /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv7/viewbased-iphone370767463#370767463#0(0"0(0#0#0"4300739032#936"    cd /Users/otakeda/Documents/viewbased-iphone    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -L/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos -F/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos -filelist /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv7/viewbased-iphone.LinkFileList -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/Objects-normal/armv7/viewbased-iphone0#
+
+CProcessInfoPlistFile /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/Info.plist viewbased_iphone-Info.plist
+s370767461.658672
+e370767461.665075
+r1
+xProcessInfoPlistFile
+x/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/Info.plist
+xviewbased_iphone-Info.plist
+lSLF07#2@35"Process viewbased_iphone-Info.plist370767461#370767461#0(0"0(0#0#69"/Users/otakeda/Documents/viewbased-iphone/viewbased_iphone-Info.plist4300739032#616"    cd /Users/otakeda/Documents/viewbased-iphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility viewbased_iphone-Info.plist -genpkginfo /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/ResourceRules.plist -o /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/Info.plist0#
+
+CProcessPCH /var/folders/7X/7XOqHfPwGTaVs6Aq8-qmyk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/viewbased_iphone_Prefix-ceagxlhaonecphcxlqeqobuqzrun/viewbased_iphone_Prefix.pch.gch viewbased_iphone_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s370767462.263898
+e370767462.971064
+r1
+xProcessPCH
+x/var/folders/7X/7XOqHfPwGTaVs6Aq8-qmyk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/viewbased_iphone_Prefix-ceagxlhaonecphcxlqeqobuqzrun/viewbased_iphone_Prefix.pch.gch
+xviewbased_iphone_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile viewbased_iphone_Prefix.pch370767462#370767462#0(0"0(0#0#69"/Users/otakeda/Documents/viewbased-iphone/viewbased_iphone_Prefix.pch4300739032#1880"    cd /Users/otakeda/Documents/viewbased-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-generated-files.hmap -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-own-target-headers.hmap -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-all-target-headers.hmap -iquote /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-project-headers.hmap -F/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos -I/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/include -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/DerivedSources/armv6 -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/otakeda/Documents/viewbased-iphone/viewbased_iphone_Prefix.pch -o /var/folders/7X/7XOqHfPwGTaVs6Aq8-qmyk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/viewbased_iphone_Prefix-ceagxlhaonecphcxlqeqobuqzrun/viewbased_iphone_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/7X/7XOqHfPwGTaVs6Aq8-qmyk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/viewbased_iphone_Prefix-gzzahkqgncmywqbgqkniisvzzqzx/viewbased_iphone_Prefix.pch.gch viewbased_iphone_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s370767462.264823
+e370767462.914123
+r1
+xProcessPCH
+x/var/folders/7X/7XOqHfPwGTaVs6Aq8-qmyk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/viewbased_iphone_Prefix-gzzahkqgncmywqbgqkniisvzzqzx/viewbased_iphone_Prefix.pch.gch
+xviewbased_iphone_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile viewbased_iphone_Prefix.pch370767462#370767462#0(0"0(0#0#69"/Users/otakeda/Documents/viewbased-iphone/viewbased_iphone_Prefix.pch4300739032#1880"    cd /Users/otakeda/Documents/viewbased-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-generated-files.hmap -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-own-target-headers.hmap -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-all-target-headers.hmap -iquote /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone-project-headers.hmap -F/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos -I/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/include -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/DerivedSources/armv7 -I/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/otakeda/Documents/viewbased-iphone/viewbased_iphone_Prefix.pch -o /var/folders/7X/7XOqHfPwGTaVs6Aq8-qmyk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/viewbased_iphone_Prefix-gzzahkqgncmywqbgqkniisvzzqzx/viewbased_iphone_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/otakeda/Library/MobileDevice/Provisioning Profiles/B2C0ADF3-545A-4A54-81ED-E5FEED84E631.mobileprovision" /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/embedded.mobileprovision
+s370767463.403232
+e370767463.404423
+r1
+xProcessProductPackaging
+x/Users/otakeda/Library/MobileDevice/Provisioning Profiles/B2C0ADF3-545A-4A54-81ED-E5FEED84E631.mobileprovision
+x/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/embedded.mobileprovision
+lSLF07#2@205"ProcessProductPackaging "/Users/otakeda/Library/MobileDevice/Provisioning Profiles/B2C0ADF3-545A-4A54-81ED-E5FEED84E631.mobileprovision" build/Release-iphoneos/viewbased-iphone.app/embedded.mobileprovision370767463#370767463#0(0"0(0#0#110"/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/embedded.mobileprovision4300739032#442"    cd /Users/otakeda/Documents/viewbased-iphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/otakeda/Library/MobileDevice/Provisioning Profiles/B2C0ADF3-545A-4A54-81ED-E5FEED84E631.mobileprovision" -o /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone.xcent
+s370767463.407925
+e370767463.423547
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+x/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone.xcent
+lSLF07#2@204"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone.xcent370767463#370767463#0(0"0(0#0#133"/Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone.xcent4300739032#467"    cd /Users/otakeda/Documents/viewbased-iphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/otakeda/Documents/viewbased-iphone/build/viewbased-iphone.build/Release-iphoneos/viewbased-iphone.build/viewbased-iphone.xcent0#
+
+CTouch /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app
+s370767463.404483
+e370767463.407800
+r1
+xTouch
+x/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app
+lSLF07#2@91"Touch /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app370767463#370767463#0(0"0(0#0#0"4300739032#281"    cd /Users/otakeda/Documents/viewbased-iphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app0#
+
+CValidate /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app
+s370767688.718062
+e370767688.866621
+r1
+xValidate
+x/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app
+owarning: iPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIcons, CFBundleIconFiles, CFBundleIconFile, or provide a default Icon.png that is 57x57 (-19013)
+oUnable to validate your application. - (null)
+o
+lSLF07#2@52"Validate build/Release-iphoneos/viewbased-iphone.app370767688#370767688#0(258"warning: iPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIcons, CFBundleIconFiles, CFBundleIconFile, or provide a default Icon.png that is 57x57 (-19013)Unable to validate your application. - (null)1(22@202" iPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIcons, CFBundleIconFiles, CFBundleIconFile, or provide a default Icon.png that is 57x57 (-19013)370767688#18446744073709551615#0#0(6@0"370767688#0#0#0#0#0"0(0#0#85"/Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app4300739032#390"    cd /Users/otakeda/Documents/viewbased-iphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PRODUCT_TYPE com.apple.product-type.application    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/Validation /Users/otakeda/Documents/viewbased-iphone/build/Release-iphoneos/viewbased-iphone.app0#
+
