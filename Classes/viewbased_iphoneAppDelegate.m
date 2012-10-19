@@ -13,6 +13,7 @@
 
 @synthesize window;
 @synthesize viewController;
+@synthesize lastCount;
 
 
 - (void)createFrontJob{
@@ -26,9 +27,17 @@
             dispatch_async(dispatch_get_main_queue(), ^{
                 [self.viewController updateData];  // dispatch_asyncをはずすと動かない。たぶんviewControllerがちゃんとしてないうちにこれが呼ばれるから？
             });
-            [NSThread sleepForTimeInterval:10.0];    // dummy wait
-            if (bgTask != UIBackgroundTaskInvalid) break;   //これのせいでback=>foreで復活しなくなった
             
+            int warnCount=[self.viewController getWarnCount];
+            UIApplication* app = [UIApplication sharedApplication];
+            app.applicationIconBadgeNumber = warnCount;
+            if (lastCount < warnCount) [self setNotif];
+            NSLog(@"warn=%d last=%d",warnCount, lastCount);
+            lastCount=warnCount;
+            
+            [NSThread sleepForTimeInterval:30.0];    // dummy wait
+            if (bgTask != UIBackgroundTaskInvalid) break;   //これのせいでback=>foreで復活しなくなった
+   
         }
     });
     
@@ -50,15 +59,18 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
 
+    NSLog(@"%s", __PRETTY_FUNCTION__);
     [self getUUID];
     
     [self createFrontJob];
+    lastCount = 0;
     
 	return YES;
 }
 
 
 - (void)dealloc {
+    NSLog(@"%s", __PRETTY_FUNCTION__);
     [viewController release];
     [window release];
     [super dealloc];
@@ -72,7 +84,7 @@
 }
 - (void)applicationDidEnterBackground:(UIApplication *)application
 {
-    
+    NSLog(@"%s", __PRETTY_FUNCTION__);
     
     UIDevice* device = [UIDevice currentDevice];
     BOOL backgroundSupported = NO;
@@ -95,32 +107,30 @@
 
     // Start the long-running task and return immediately.
         dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
-        for(;;) {
-            NSLog(@"background: ");
+            for(;;) {
+                NSLog(@"background: ");
 
             
-            UIApplication* app = [UIApplication sharedApplication];
-            int warnCount=[self.viewController getWarnCount];
-            app.applicationIconBadgeNumber = warnCount;
-            if (warnCount>0) [self setNotif];
+                UIApplication* app = [UIApplication sharedApplication];
+                int warnCount=[self.viewController getWarnCount];
+                app.applicationIconBadgeNumber = warnCount;
+                if (lastCount < warnCount) [self setNotif];
+                NSLog(@"warn=%d last=%d",warnCount, lastCount);
+                lastCount=warnCount;
 
-            dispatch_async(dispatch_get_main_queue(), ^{
-                [self.viewController updateData];  // dispatch_asyncをはずすと動かない。よくわからんロックされる
-            });
+                dispatch_async(dispatch_get_main_queue(), ^{
+                    [self.viewController updateData];  // dispatch_asyncをはずすと動かない。よくわからんロックされる
+                });
 
-            [NSThread sleepForTimeInterval:12.0];
+                [NSThread sleepForTimeInterval:60.0];
             
-            
-            if (bgTask==UIBackgroundTaskInvalid) break;
-        }
+                if (bgTask==UIBackgroundTaskInvalid) break;
+            }
 
-        [application endBackgroundTask:bgTask];
-        bgTask = UIBackgroundTaskInvalid;
-    });
-
- }
- 
-    
+            [application endBackgroundTask:bgTask];
+            bgTask = UIBackgroundTaskInvalid;
+        });
+    }
 }
 /*
 - (void)scheduleAlarmForDate:(NSDate*)theDate
@@ -159,7 +169,7 @@
     // タイムゾーンを指定する
     [notification setTimeZone:[NSTimeZone localTimeZone]];
     
-    NSString *alertmsg = [[NSString alloc]initWithFormat:@"Over %d",[self.viewController getWarnCount] ];
+    NSString *alertmsg = [[NSString alloc]initWithFormat:@"2σ line over : %d → %d",[self.viewController getWarnCount] , lastCount];
     // メッセージを設定する
     [notification setAlertBody:alertmsg];
 	
@@ -194,4 +204,24 @@
     
 }
 
+
+/* ============================================================================== */
+#pragma mark - UILocalNotification
+/* ============================================================================== */
+// 通常、アプリケーションが起動中の場合はローカル通知は通知されないが、通知されるようにする
+- (void)application:(UIApplication *)application didReceiveLocalNotification:(UILocalNotification *)notification
+{
+    NSString *msg = [[NSString alloc]initWithFormat:@"2σ line over : %d → %d",[self.viewController getWarnCount] , lastCount];
+    if(notification) {
+        UIAlertView *alert = [[UIAlertView alloc]
+                              initWithTitle:@"Infomation"
+                              message:msg
+                              delegate:self
+                              cancelButtonTitle:@"OK"
+                              otherButtonTitles:nil];
+        [alert show];
+        [alert release];
+    }
+    [msg release];
+}
 @end

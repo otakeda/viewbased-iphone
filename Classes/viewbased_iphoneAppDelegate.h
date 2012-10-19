@@ -15,11 +15,12 @@
     viewbased_iphoneViewController *viewController;
 
     __block UIBackgroundTaskIdentifier bgTask;
+    int  lastCount;
 
 }
 
 @property (nonatomic, retain) IBOutlet UIWindow *window;
 @property (nonatomic, retain) IBOutlet viewbased_iphoneViewController *viewController;
-
+@property (readwrite) NSInteger lastCount;
 @end
 

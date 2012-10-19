@@ -14,7 +14,7 @@ NSMutableArray *list0;
 @synthesize webView;
 @synthesize tableView0;
 @synthesize indicator0;
-@synthesize toolbar; 
+@synthesize toolbar;
 
 - (void)dealloc {
     [super dealloc];
